@@ -1,0 +1,22 @@
+export const API_ENDPOINTS = {
+  // LOGIN: "/login",
+  // REGISTER: "/register",
+  // LOGOUT: "/logout",
+  // FORGET_PASSWORD: "/forget-password",
+  CATEGORIES: "/api/categories.json",
+  FEATURED_CATEGORIES: "/api/featured_categories.json",
+  COLLECTIONS: "/api/collections.json",
+  BRANDS: "/api/brands.json",
+  PRODUCTS: "/api/products.json",
+  FEATURED_PRODUCTS: "/api/featured_products.json",
+  TOP_SELLER_PRODUCTS: "/api/products_top_seller.json",
+  ON_SELLING_PRODUCTS: "/api/products_on_selling.json",
+  PRODUCT: "/api/product.json",
+  RELATED_PRODUCTS: "/api/related_products.json",
+  BEST_SELLER_PRODUCTS: "/api/products_best_seller.json",
+  NEW_ARRIVAL_PRODUCTS: "/api/products_new_arrival.json",
+  FLASH_SALE_PRODUCTS: "/api/products_flash_sale.json",
+  SEARCH: "/api/search.json",
+  ORDERS: "/api/orders.json",
+  ORDER: "/api/order.json"
+};

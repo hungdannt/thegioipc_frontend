@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Bo Mạch Chủ",
+      "slug": "mainboard",
+      "productCount": 10,
+      "icon": "/assets/images/category/icons/mainboard.png",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/mainboard.jpg",
+        "original": "/assets/images/category/mainboard.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "CPU",
+      "slug": "cpu",
+      "productCount": 10,
+      "icon": "/assets/images/category/icons/cpu.png",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cpu.jpg",
+        "original": "/assets/images/category/cpu.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Card Màn Hình",
+      "slug": "vga",
+      "productCount": 20,
+      "icon": "/assets/images/category/icons/vga.png",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/vga.jpg",
+        "original": "/assets/images/category/vga.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "RAM ",
+      "slug": "ram",
+      "productCount": 20,
+      "icon": "/assets/images/category/icons/ram.png",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/ram.jpg",
+        "original": "/assets/images/category/ram.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ổ Cứng HDD",
+      "slug": "hdd",
+      "productCount": 20,
+      "icon": "/assets/images/category/icons/hdd.png",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/hdd.jpg",
+        "original": "/assets/images/category/hdd.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Ổ Cứng SSD",
+      "slug": "ssd",
+      "productCount": 20,
+      "icon": "/assets/images/category/icons/ssd.png",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/ssd.jpg",
+        "original": "/assets/images/category/ssd.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Màn Hình",
+      "slug": "man-hinh",
+      "productCount": 20,
+      "icon": "/assets/images/category/icons/man-hinh.png",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/man-hinh.jpg",
+        "original": "/assets/images/category/man-hinh.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "PC, Workstation",
+      "slug": "pc",
+      "productCount": 20,
+      "icon": "/assets/images/category/icons/pc.png",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/pc.jpg",
+        "original": "/assets/images/category/pc.jpg"
+      }
+    }
+  ]
+}
