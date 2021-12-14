@@ -50,7 +50,7 @@ export default function usePrice(
   } | null
 ) {
   const { amount, baseAmount, currencyCode } = data ?? {};
-  const locale = "en";
+  const locale = "vi";
   const value = useMemo(() => {
     if (typeof amount !== "number" || !currencyCode) return "";
 
@@ -58,7 +58,7 @@ export default function usePrice(
       ? formatVariantPrice({ amount, baseAmount, currencyCode, locale })
       : formatPrice({ amount, currencyCode, locale });
   }, [amount, baseAmount, currencyCode]);
-
+  console.log(typeof value);
   return typeof value === "string"
     ? { price: value, basePrice: null, discount: null }
     : value;

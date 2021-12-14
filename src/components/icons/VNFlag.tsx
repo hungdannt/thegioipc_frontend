@@ -8,11 +8,11 @@ export const VNFlag = ({ width = "640px", height = "480px" }) => {
     >
       <defs>
         <clipPath id="vn-a">
-          <path fill-opacity=".7" d="M-85.3 0h682.6v512H-85.3z" />
+          <path fillOpacity=".7" d="M-85.3 0h682.6v512H-85.3z" />
         </clipPath>
       </defs>
       <g
-        fill-rule="evenodd"
+        fillRule="evenodd"
         clip-path="url(#vn-a)"
         transform="translate(80) scale(.9375)"
       >
