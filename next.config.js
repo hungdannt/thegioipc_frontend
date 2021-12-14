@@ -5,7 +5,10 @@ module.exports = withPWA({
   pwa: {
     disable: process.env.NODE_ENV !== "production",
     dest: "public",
-    runtimeCaching,
+    runtimeCaching
   },
-  i18n,
+  images: {
+    domains: ["hoanghapc.vn"]
+  },
+  i18n
 });

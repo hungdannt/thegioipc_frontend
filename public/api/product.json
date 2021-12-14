@@ -1,60 +1,4 @@
 {
-  "id": 1,
-  "sku": "N/A",
-  "name": "Maniac Red Boys",
-  "slug": "maniac-red-boys",
-  "description": "Children’s clothing/ kids wear is usually more casual than adult clothing, fit play and rest. Hosiery is usually used. More recently, however, tons of childrenswear is heavily influenced by trends in adult fashion",
-  "category": {
-    "id": 1,
-    "name": "kids",
-    "slug": "kids"
-  },
-  "tags": [
-    {
-      "id": 1,
-      "name": "Casual",
-      "slug": "casual"
-    },
-    {
-      "id": 2,
-      "name": "Cotton",
-      "slug": "cotton"
-    },
-    {
-      "id": 3,
-      "name": "Red",
-      "slug": "red"
-    }
-  ],
-  "image": {
-    "id": 1,
-    "thumbnail": "/assets/images/products/p-20.png",
-    "original": "/assets/images/products/p-20-m.png"
-  },
-  "gallery": [
-    {
-      "id": 1,
-      "thumbnail": "/assets/images/products/p-20-1.png",
-      "original": "/assets/images/products/p-20-1.png"
-    },
-    {
-      "id": 2,
-      "thumbnail": "/assets/images/products/p-20-2.png",
-      "original": "/assets/images/products/p-20-2.png"
-    },
-    {
-      "id": 3,
-      "thumbnail": "/assets/images/products/p-20-3.png",
-      "original": "/assets/images/products/p-20-3.png"
-    },
-    {
-      "id": 4,
-      "thumbnail": "/assets/images/products/p-20-4.png",
-      "original": "/assets/images/products/p-20-4.png"
-    }
-  ],
-  "price": 50,
-  "sale_price": 40,
   "quantity": 20,
   "variations": [
     {
@@ -134,6 +78,46 @@
       }
     }
   ],
+
+  "id": 2,
+  "name": "Mainboard ASUS ROG MAXIMUS XII HERO (WI-FI) (Intel Z490, Socket 1200, ATX, 4 khe RAM DDR4)",
+  "description": "Chuẩn mainboard: ATX\r\nSocket: 1200, Chipset: Z490\r\nHỗ trợ RAM: 4 khe DDR4, tối đa 128GB\r\nLưu trữ: 3 x M.2 NVMe, 6 x SATA 3 6Gb/s\r\nCổng xuất hình: Không",
+  "slug": "mainboard-asus-rog-maximus-xii-hero",
+  "image": {
+    "id": 2,
+    "thumbnail": "https://hoanghapc.vn/media/product/250_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+    "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    {
+      "id": 1,
+      "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+    },
+    {
+      "id": 1,
+      "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+    },
+    {
+      "id": 1,
+      "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+    },
+    {
+      "id": 1,
+      "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+    }
+  ],
+  "price": "6.900.000đ",
+  "sale_price": "N/A",
+
   "meta": [
     {
       "id": 1,
