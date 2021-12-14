@@ -1,57 +1,962 @@
 [
   {
     "id": 1,
-    "name": "Armani Veni Vidi Vici",
-    "description": "Fendi began life in 1925 as a fur and leather speciality store in Rome.",
-    "slug": "armani-veni-vidi-vici",
+    "name": "Mainboard ASUS Z490 ROG MAXIMUS XII FORMULA (Intel Z490, Socket 1200, ATX)",
+    "description": "Mainboard ASUS ROG MAXIMUS XII FORMULA \r\nSocket: LGA1200 Hỗ trợ CPU Intel thế hệ thứ 10 \r\nChipset : Intel Z490 \r\nKích thước: ATX\r\nKhe cắm RAM: 4 khe DDR4  (Tối đa 128GB)",
+    "slug": "mainboard-asus-z490-rog-maximus-xii-formula",
     "image": {
       "id": 1,
-      "thumbnail": "/assets/images/products/p-11.png",
-      "original": "/assets/images/products/p-11-m.png"
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1417_rog_maximus_xii_formula_011.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
     },
     "gallery": [
       {
         "id": 1,
-        "thumbnail": "/assets/images/products/p-11-1.png",
-        "original": "/assets/images/products/p-11-1.png"
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
       },
-      {
-        "id": 2,
-        "thumbnail": "/assets/images/products/p-11-2.png",
-        "original": "/assets/images/products/p-11-2.png"
-      },
-      {
-        "id": 3,
-        "thumbnail": "/assets/images/products/p-11-3.png",
-        "original": "/assets/images/products/p-11-3.png"
-      },
-      {
-        "id": 4,
-        "thumbnail": "/assets/images/products/p-11-4.png",
-        "original": "/assets/images/products/p-11-4.png"
-      }
-    ],
-    "price": 20.0,
-    "sale_price": 17.99,
-    "variations": [
       {
         "id": 1,
-        "value": "S",
-        "attribute": {
-          "id": 1,
-          "name": "Size",
-          "slug": "size"
-        }
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
       },
       {
-        "id": 2,
-        "value": "M",
-        "attribute": {
-          "id": 1,
-          "name": "Size",
-          "slug": "size"
-        }
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
       }
-    ]
+    ],
+    "price": "Liên hệ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 2,
+    "name": "Mainboard ASUS ROG MAXIMUS XII HERO (WI-FI) (Intel Z490, Socket 1200, ATX, 4 khe RAM DDR4)",
+    "description": "Chuẩn mainboard: ATX\r\nSocket: 1200, Chipset: Z490\r\nHỗ trợ RAM: 4 khe DDR4, tối đa 128GB\r\nLưu trữ: 3 x M.2 NVMe, 6 x SATA 3 6Gb/s\r\nCổng xuất hình: Không",
+    "slug": "mainboard-asus-rog-maximus-xii-hero",
+    "image": {
+      "id": 2,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "6.900.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 3,
+    "name": "Mainboard GIGABYTE Z490 AORUS PRO AX (Intel Z490, Socket 1200, ATX, 4 khe RAM DDR4)",
+    "description": "Socket: LGA1200 hỗ trợ CPU intel thế hệ 10\r\nKích thước: ATX\r\nKhe cắm RAM: 4 khe (Tối đa 128 GB)\r\nKhe cắm mở rộng: PCI Express x1 slots, PCI Express x16 slot\r\nKhe cắm ổ cứng: 2 x M.2 connectors, 6 x SATA 6Gb/s",
+    "slug": "mainboard-gigabyte-z490-aorus-pro-ax",
+    "image": {
+      "id": 3,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1432_mainboard_z490_aorus_pro_ax_01.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "5.990.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 4,
+    "name": "Mainboard GIGABYTE Z490 VISION D (Intel Z490, Socket 1200, ATX, 4 khe RAM DDR4)",
+    "description": "Chuẩn mainboard: ATX\r\nSocket: 1200, Chipset: Z490\r\nHỗ trợ RAM: 4 khe DDR4, tối đa 128GB\r\nLưu trữ: 2 x M.2 NVMe, 6 x SATA 3 6Gb/s\r\nCổng xuất hình: 1 x HDMI, 1 x Display Port",
+    "slug": "mainboard-gigabyte-z490-vision-d",
+    "image": {
+      "id": 4,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1434_mainboard_z490_vision_d_01.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "8.390.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 5,
+    "name": "Mainboard ASUS TUF Gaming X570-PLUS (AMD X570, Socket AM4, ATX, 4 Khe Cắm Ram DDR4)",
+    "description": "Socket: AM4 hỗ trợ CPU AMD thế hệ 3\r\nKích thước: ATX\r\nKhe cắm RAM: 4 khe (Tối đa 128GB)\r\nKhe cắm mở rộng: 1 x PCIe 4.0/3.0 x16",
+    "slug": "mainboard-asus-tuf-gaming-x570-plus",
+    "image": {
+      "id": 5,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1373_mainboard_asus_tuf_gaming_x570_plus.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "4.750.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 6,
+    "name": "Mainboard ASUS ROG MAXIMUS XII EXTREME (Intel Z490, Socket 1200, E-ATX, 4 khe RAM DDR4)",
+    "description": "Chuẩn mainboard: E-ATX\r\nSocket: 1200, Chipset: Z490\r\nHỗ trợ RAM: 4 khe DDR4, tối đa 128GB\r\nLưu trữ: 4 x M.2 NVMe, 8 x SATA 3 6Gb/s\r\nCổng xuất hình: Không",
+    "slug": "mainboard-asus-rog-maximus-xii-extreme",
+    "image": {
+      "id": 6,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1429_mainboard_rog_maximus_xii_extreme_01.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "9.990.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 7,
+    "name": "Mainboard Gigabyte Z490 AORUS XTREME (Intel Z490, Socket 1200, E-ATX, 4 khe RAM DDR4)",
+    "description": "Chuẩn mainboard: E-ATX\r\nSocket: 1200, Chipset: Z490\r\nHỗ trợ RAM: 4 khe DDR4, tối đa 128GB\r\nLưu trữ: 2 x M.2 NVMe, 6 x SATA 3 6Gb/s\r\nCổng xuất hình: 1 x HDMI",
+    "slug": "mainboard-gigabyte-z490-aorus-xtreme",
+    "image": {
+      "id": 7,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1438_z490_aorus_xtreme_01.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "9.900.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 8,
+    "name": "Mainboard GIGABYTE Z490 AORUS MASTER (Intel Z490, Socket 1200, ATX, 4 khe RAM DDR4)",
+    "description": "Chuẩn mainboard: ATX\r\nSocket: 1200, Chipset: Z490\r\nHỗ trợ RAM: 4 khe DDR4, tối đa 128GB\r\nLưu trữ: 2 x M.2 NVMe, 6 x SATA 3 6Gb/s\r\nCổng xuất hình: 1 x HDMI",
+    "slug": "mainboard-gigabyte-z490-aorus-master",
+    "image": {
+      "id": 8,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1439_mainboard_z490_aorus_master_01.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "6.990.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 9,
+    "name": "Mainboard GIGABYTE Z490 AORUS ULTRA (rev. 1.0) (Intel Z490, Socket 1200, ATX, 4 khe RAM DDR4)",
+    "description": "Socket: LGA1200 hỗ trợ CPU intel thế hệ 10\r\nKích thước: ATX\r\nKhe cắm RAM: 4 khe (Tối đa 128 GB)\r\nKhe cắm mở rộng: PCI Express x16 slot\r\nKhe cắm ổ cứng: M.2 connector, SATA 6Gb/s",
+    "slug": "mainboard-gigabyte-z490-aorus-ultra",
+    "image": {
+      "id": 9,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1431_mainboard_z490_aorus_ultra_01.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "6.590.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 10,
+    "name": "Mainboard GIGABYTE Z490 AORUS ELITE (Intel Z490, Socket 1200, ATX, 4 khe RAM DDR4)",
+    "description": "Socket: LGA1200 hỗ trợ CPU intel thế hệ 10\r\nKích thước: ATX\r\nKhe cắm RAM: 4 khe (Tối đa 128 GB)\r\nKhe cắm mở rộng: PCI Express x1 slots, PCI Express x16 slot\r\nKhe cắm ổ cứng: 2 x M.2 connectors, 6 x SATA 6Gb/s",
+    "slug": "mainboard-gigabyte-z490-aorus-elite",
+    "image": {
+      "id": 10,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_1433_mainboard_gigabyte_z490_aorus_elite_10.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "5.790.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 11,
+    "name": "Mainboard ASROCK B550M STEEL LEGEND (AMD B550, Socket AM4,m- ATX, 2 khe RAM DRR4)",
+    "description": "Mainboard ASROCK B550M STEEL LEGEND\r\nKích thước: M-ATX\r\nSocket: AM4\r\nChipset: B550\r\nKhe RAM tối đa: 4\r\nLoại RAM hỗ trợ: DDR4",
+    "slug": "mainboard-asrock-b550m-steel-legend",
+    "image": {
+      "id": 11,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_3096_b550m_steel_legend_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "3.599.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 12,
+    "name": "Mainboard Gigabyte W480M VISION W (W480, socket 1200, mATX, 4 khe RAM DDR4)",
+    "description": "Mainboard Gigabyte W480M VISION W\r\nSocket LGA 1200\r\nKích thước ATX\r\n4 khe RAM DDR4",
+    "slug": "mainboard-gigabyte-w480m-vision-w",
+    "image": {
+      "id": 12,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_3078_gigabyte_w480m_vision_w_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "4.600.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 13,
+    "name": "Mainboard Gigabyte W480 VISION W (W480, socket 1200, ATX, 4 khe RAM DDR4)",
+    "description": "Bo mạch chủ cho nhu cầu làm việc chuyên nghiệp\r\nSocket LGA 1200\r\nKích thước ATX\r\n4 khe RAM",
+    "slug": "mainboard-gigabyte-w480-vision-w",
+    "image": {
+      "id": 13,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_3077_gigabyte_w480_vision_w_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "5.800.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 14,
+    "name": "Mainboard Gigabyte W480 VISION D (Intel W480, Socket LGA 1200, ATX, 4 khe RAM DDR4)",
+    "description": "Bo mạch chủ Workstation cao cấp của Gigabyte\r\nThiết kế tối giản, đẹp mắt\r\n4 khe ram\r\nHỗ trợ các CPU Core i và Xeon socket LGA 1200",
+    "slug": "mainboard-gigabyte-w480-vision-d",
+    "image": {
+      "id": 14,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_3076_gigabyte_w480_vision_d_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "8.000.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 15,
+    "name": "Mainboard MSI PRO Z690-P (Intel Z690, Socket 1700, ATX, 4 khe RAM DDR4)",
+    "description": "Mainboard MSI PRO Z690-P\r\nBo mạch chủ socket LGA 1700\r\nChipset Z690 cao cấp\r\nKích thước: ATX\r\n4 khe RAM DDR4",
+    "slug": "mainboard-msi-pro-z690-p",
+    "image": {
+      "id": 15,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_3071_msi_pro_z690_p_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "5.690.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 16,
+    "name": "Mainboard BIOSTAR Z590A-SILVER (Intel Z590, LGA 1200, ATX, 4 Khe Cắm Ram DDR4)",
+    "description": "Mainboard BIOSTAR Z590A-SILVER\r\nHỗ trợ thế hệ chip 10th/11th\r\nSố khe ram 4-DIMM DDR4- up to 128 GB Memory\r\nChuẩn PCIe 4.0",
+    "slug": "mainboard-biostar-z590a-silver",
+    "image": {
+      "id": 16,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_3024_biostar_z590_a_silver_2.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "5.890.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 17,
+    "name": "Mainboard BIOSTAR Z490A-SILVER (Intel Z490, LGA 1200, ATX, 4 Khe Cắm Ram DDR4)",
+    "description": "Hỗ trợ thế hệ chip 10th/11th\r\nSố khe ram 4-DIMM DDR4- up to 128 GB Memory\r\nChuẩn PCIe 3.0\r\nChuẩn PCIe M.2 3.0 (32Gb/s)\r\nIntel Optane Technology",
+    "slug": "mainboard-biostar-z490a-silver",
+    "image": {
+      "id": 17,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_3015_biostar_z490a_silver_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "3.590.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 18,
+    "name": "Mainboard BIOSTAR Z490 GTN (Intel Z490, LGA 1200, ITX, 2 Khe Cắm Ram DDR4)",
+    "description": "Chuẩn mainboard: Mini-ITX\r\nSocket: 1200, Chipset: Z490\r\nHỗ trợ RAM: 2 khe DDR4, tối đa 64GB\r\nLưu trữ:  1 x M.2 slots and 4x SATA III (6Gb/s)\r\nCổng xuất hình: không",
+    "slug": "mainboard-biostar-z490-gtn",
+    "image": {
+      "id": 18,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_3014_biostar_z490_gtn_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "2.999.000đ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 19,
+    "name": "Mainboard MSI MEG Z690 UNIFY-X (Intel Z690, Socket 1700, ATX, 4 khe Ram DDR5)",
+    "description": "Mainboard MSI MEG Z690 UNIFY-X\r\nBo mạch chủ socket LGA 1700\r\nChipset Z690 cao cấp\r\nKích thước: ATX\r\n4 khe RAM\r\nTích hợp Wifi",
+    "slug": "mainboard-msi-meg-z690-unify-x",
+    "image": {
+      "id": 19,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_2992_msi_z690_unify_x_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "Liên hệ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 20,
+    "name": "Mainboard MSI MEG Z690 UNIFY (Intel Z690, Socket 1700, ATX, 4 khe Ram DDR5)",
+    "description": "Mainboard MSI MEG Z690 UNIFY\r\nBo mạch chủ socket LGA 1700\r\nChipset Z690 cao cấp\r\nKích thước: ATX\r\n4 khe RAM\r\nTích hợp Wifi",
+    "slug": "mainboard-msi-meg-z690-unify",
+    "image": {
+      "id": 20,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_2991_msi_z690_unify_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "Liên hệ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 21,
+    "name": "Mainboard MSI MPG Z690 CARBON WIFI (Intel Z690, Socket 1700, ATX, 4 khe Ram DDR5)",
+    "description": "Mainboard MSI MPG Z690 CARBON WIFI\r\nBo mạch chủ socket LGA 1700\r\nChipset Z690 cao cấp\r\nKích thước: ATX\r\n4 khe RAM\r\nTích hợp Wifi",
+    "slug": "mainboard-msi-mpg-z690-carbon-wifi",
+    "image": {
+      "id": 21,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_2990_msi_z690_carbon_wifi_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "Liên hệ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 22,
+    "name": "Mainboard MSI MPG Z690 CARBON EK X (Intel Z690, Socket 1700, ATX, 4 khe Ram DDR5)",
+    "description": "Mainboard MSI MPG Z690 CARBON EK X\r\nBo mạch chủ socket LGA 1700\r\nChipset Z690 cao cấp\r\nKích thước: ATX\r\n4 khe RAM\r\nTích hợp Wifi",
+    "slug": "mainboard-msi-mpg-z690-carbon-ek-x",
+    "image": {
+      "id": 22,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_2989_msi_z690_carbon_ek_x_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "Liên hệ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 23,
+    "name": "Mainboard ASROCK Z690 STEEL LEGEND WIFI (Intel Z690, Socket 1700, ATX, 4 khe Ram DDR4)",
+    "description": "Mainboard ASROCK Z690 STEEL LEGEND WIFI\r\nChuẩn mainboard: ATX\r\nSocket: 1200, Chipset: Z690\r\nHỗ trợ RAM: 4 khe DDR4, tối đa 128GB\r\nLưu trữ: 2 x M.2 NVMe, 6 x SATA 3 6Gb/s\r\nCổng xuất hình: 1 x HDMI, 1 x Display Port",
+    "slug": "mainboard-asrock-z690-steel-legend-wifi",
+    "image": {
+      "id": 23,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_2988_asrock_z690_steel_legend_wifi.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "Liên hệ",
+    "sale_price": "N/A"
+  },
+  {
+    "id": 24,
+    "name": "Mainboard Gigabyte Z690M AORUS ELITE (Intel Z690, Socket 1700, m-ATX, 4 khe Ram DDR4)",
+    "description": "Mainboard Gigabyte Z690M AORUS ELITE\r\nGigabyte Z690 Aorus Elite dành cho game thủ\r\nSocket: 1700, Chipset: Z690\r\nHỗ trợ RAM: 4 khe DDR4, tối đa 128GB",
+    "slug": "mainboard-gigabyte-z690m-aorus-elite",
+    "image": {
+      "id": 24,
+      "thumbnail": "https://hoanghapc.vn/media/product/250_2981_gigabyte_z690m_aorus_elite_1.jpg",
+      "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_02.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_03.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_04.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://hoanghapc.vn/media/product/75_1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg",
+        "original": "https://hoanghapc.vn/media/product/1428_mainboard_rog_maximus_xii_hero_wifi_05.jpg"
+      }
+    ],
+    "price": "5.750.000đ",
+    "sale_price": "N/A"
   }
 ]
