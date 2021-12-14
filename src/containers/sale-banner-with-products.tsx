@@ -1,27 +1,27 @@
-import BannerCard from '@components/common/banner-card';
-import SectionHeader from '@components/common/section-header';
-import ProductCard from '@components/product/product-card';
-import ProductCardListSmallLoader from '@components/ui/loaders/product-card-small-list-loader';
-import { useOnSellingProductsQuery } from '@framework/product/get-all-on-selling-products';
-import { saleBannerWithProducts as banner } from '@framework/static/banner';
-import Alert from '@components/ui/alert';
-import { ROUTES } from '@utils/routes';
+import BannerCard from "@components/common/banner-card";
+import SectionHeader from "@components/common/section-header";
+import ProductCard from "@components/product/product-card";
+import ProductCardListSmallLoader from "@components/ui/loaders/product-card-small-list-loader";
+import { useOnSellingProductsQuery } from "@framework/product/get-all-on-selling-products";
+import { saleBannerWithProducts as banner } from "@framework/static/banner";
+import Alert from "@components/ui/alert";
+import { ROUTES } from "@utils/routes";
 
 interface ProductsProps {
   sectionHeading: string;
   categorySlug?: string;
   className?: string;
-  variant?: 'default' | 'reverse';
+  variant?: "default" | "reverse";
 }
 
 const SaleBannerWithProducts: React.FC<ProductsProps> = ({
   sectionHeading,
   categorySlug,
-  variant = 'default',
-  className = 'mb-12 md:mb-14 xl:mb-16',
+  variant = "default",
+  className = "mb-12 md:mb-14 xl:mb-16 content-center"
 }) => {
   const { data, isLoading, error } = useOnSellingProductsQuery({
-    limit: 10,
+    limit: 10
   });
 
   return (
@@ -34,7 +34,7 @@ const SaleBannerWithProducts: React.FC<ProductsProps> = ({
         <Alert message={error?.message} />
       ) : (
         <div className="grid grid-cols-1 2xl:grid-cols-2 gap-3 md:gap-6 lg:gap-5 xl:gap-7">
-          {variant === 'reverse' ? (
+          {variant === "reverse" ? (
             <BannerCard
               banner={banner[1]}
               href={`${ROUTES.COLLECTIONS}/${banner[1].slug}`}
@@ -49,7 +49,7 @@ const SaleBannerWithProducts: React.FC<ProductsProps> = ({
           )}
           <div
             className={`grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-3 md:gap-5 xl:gap-7 ${
-              variant === 'reverse' ? 'row-span-full' : ''
+              variant === "reverse" ? "row-span-full" : ""
             }`}
           >
             {isLoading
@@ -61,7 +61,7 @@ const SaleBannerWithProducts: React.FC<ProductsProps> = ({
                 ))
               : data
                   ?.slice(0, 4)
-                  .map((product) => (
+                  .map(product => (
                     <ProductCard
                       key={`product--key${product.id}`}
                       product={product}

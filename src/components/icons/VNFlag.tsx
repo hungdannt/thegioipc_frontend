@@ -13,7 +13,7 @@ export const VNFlag = ({ width = "640px", height = "480px" }) => {
       </defs>
       <g
         fillRule="evenodd"
-        clip-path="url(#vn-a)"
+        clipPath="url(#vn-a)"
         transform="translate(80) scale(.9375)"
       >
         <path fill="#ec0015" d="M-128 0h768v512h-768z" />

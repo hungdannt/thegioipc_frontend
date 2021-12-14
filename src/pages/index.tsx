@@ -36,24 +36,24 @@ export default function Home() {
           sectionHeading="text-featured-products"
         />
         <ProductsFlashSaleCarousel />
-        <BannerCard
+        {/* <BannerCard
           key={`banner--key${banner.id}`}
           banner={banner}
           href={`${ROUTES.COLLECTIONS}/${banner.slug}`}
           className="mb-12 lg:mb-14 xl:mb-16 pb-0.5 lg:pb-1 xl:pb-0"
-        />
+        /> */}
         <NewArrivalsProductFeed />
         <SaleBannerWithProducts
           sectionHeading="text-on-selling-products"
           categorySlug="/search"
         />
-        <BrandGridBlock
+        {/* <BrandGridBlock
           sectionHeading="text-top-brands"
           limit={12}
           variant="6column"
-        />
-        <TestimonialCarousel sectionHeading="text-testimonial" />
-        <SubscriptionWithBg />
+        /> */}
+        {/* <TestimonialCarousel sectionHeading="text-testimonial" /> */}
+        {/* <SubscriptionWithBg /> */}
       </Container>
     </>
   );

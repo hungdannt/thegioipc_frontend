@@ -126,12 +126,14 @@ const ProductCard: FC<ProductProps> = ({
             <>
               <span className="block pl-0">
                 <span className="">{product.price}</span>
-                <span className="float-right text-green">{"Còn hàng"}</span>
+                <span className="float-right text-green-500 font-header">
+                  {"Còn hàng"}
+                </span>
               </span>
               <del className="sm:text-base font-normal text-gray-800">
                 {product.price}
               </del>
-              <span className="sm:text-sm font-normal truncate text-red inline">
+              <span className="sm:text-sm font-normal truncate text-red-500 inline">
                 {"Giảm 20%"}
               </span>
             </>
