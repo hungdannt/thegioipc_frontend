@@ -278,6 +278,6 @@
 }
 
 /* Breadcrumb truncate last child */
-.chawkbazarBreadcrumb li:last-child {
+.blayteamBreadcrumb li:last-child {
   @apply truncate;
 }

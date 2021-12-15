@@ -8,13 +8,8 @@ export const DefaultSeo = () => {
       description={siteSettings.description}
       openGraph={{
         type: "website",
-        locale: "en_IE",
+        locale: "vn",
         site_name: siteSettings.name,
-      }}
-      twitter={{
-        handle: "@handle",
-        site: "@site",
-        cardType: "summary_large_image",
       }}
       additionalMetaTags={[
         {
