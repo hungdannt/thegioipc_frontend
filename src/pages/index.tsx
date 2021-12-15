@@ -12,16 +12,10 @@ import { fetchBrands } from "@framework/brand/get-all-brands";
 import ProductsFeatured from "@containers/products-featured";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import CategoryBlockIcon from "@containers/category-block-icon";
-import { ROUTES } from "@utils/routes";
-import { homeSixCoupons as banner } from "@framework/static/banner";
 import SaleBannerGrid from "@containers/sale-banner-grid";
 import ProductsFlashSaleCarousel from "@containers/product-flash-sale-carousel";
 import NewArrivalsProductFeed from "@components/product/feeds/new-arrivals-product-feed";
-import BannerCard from "@components/common/banner-card";
 import SaleBannerWithProducts from "@containers/sale-banner-with-products";
-import BrandGridBlock from "@containers/brand-grid-block";
-import TestimonialCarousel from "@containers/testimonial-carousel";
-import SubscriptionWithBg from "@components/common/subscription-with-bg";
 
 export default function Home() {
   return (
