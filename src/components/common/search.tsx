@@ -12,7 +12,6 @@ import {
 import Scrollbar from "@components/common/scrollbar";
 import SearchProduct from "@components/common/search-product";
 import { useRouter } from "next/router";
-import { cpus } from "os";
 
 export default function Search() {
   const { displaySearch, closeSearch } = useUI();
