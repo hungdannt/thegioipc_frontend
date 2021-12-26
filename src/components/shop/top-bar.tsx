@@ -9,7 +9,7 @@ import { useTranslation } from "next-i18next";
 import { getDirection } from "@utils/get-direction";
 import axios from "axios";
 
-const SearchTopBar = async () => {
+const SearchTopBar = () => {
   const { openFilter, displayFilter, closeFilter } = useUI();
   const { t } = useTranslation("common");
   const { locale } = useRouter();
