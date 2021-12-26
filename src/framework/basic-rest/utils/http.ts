@@ -25,4 +25,12 @@ http.interceptors.request.use(
   }
 );
 
+// axios.interceptors.response.use(
+//   response => {
+//     return response;
+//   },
+//   err => {
+//     return Promise.reject(err);
+//   }
+// );
 export default http;

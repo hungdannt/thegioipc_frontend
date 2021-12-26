@@ -1,5 +1,6 @@
 // import { API_ENDPOINTS } from "@framework/utils/api-endpoints";
 // import http from "@framework/utils/http";
+import axios from "axios";
 import { useMutation } from "react-query";
 
 export interface UpdateUserType {
@@ -11,18 +12,20 @@ export interface UpdateUserType {
   password: string;
   confirmPassword: string;
   gender: string;
+  permission: string;
 }
 async function updateUser(input: UpdateUserType) {
-  // return http.post(API_ENDPOINTS.ChangeEmail, input);
-  return input;
+  return axios
+    .put("http://20.212.156.55:3020/user/update", input)
+    .then(res => res.data);
 }
 export const useUpdateUserMutation = () => {
   return useMutation((input: UpdateUserType) => updateUser(input), {
-    onSuccess: (data) => {
+    onSuccess: data => {
       console.log(data, "UpdateUser success response");
     },
-    onError: (data) => {
+    onError: data => {
       console.log(data, "UpdateUser error response");
-    },
+    }
   });
 };

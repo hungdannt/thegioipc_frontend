@@ -3,28 +3,30 @@ import { useUI } from "@contexts/ui.context";
 // import http from "@framework/utils/http";
 import Cookies from "js-cookie";
 import { useMutation } from "react-query";
+import axios from "axios";
 
 export interface SignUpInputType {
   email: string;
   password: string;
-  name: string;
+  lastName: string;
+  permission: string;
 }
 async function signUp(input: SignUpInputType) {
-  // return http.post(API_ENDPOINTS.LOGIN, input);
-  return {
-    token: `${input.email}.${input.name}`.split("").reverse().join(""),
-  };
+  input.permission = "USER";
+  return axios
+    .post("http://20.212.156.55:3020/user/create", input)
+    .then(res => res.data);
 }
 export const useSignUpMutation = () => {
   const { authorize, closeModal } = useUI();
   return useMutation((input: SignUpInputType) => signUp(input), {
-    onSuccess: (data) => {
+    onSuccess: data => {
       Cookies.set("auth_token", data.token);
       authorize();
       closeModal();
     },
-    onError: (data) => {
+    onError: data => {
       console.log(data, "login error response");
-    },
+    }
   });
 };

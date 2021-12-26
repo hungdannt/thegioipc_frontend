@@ -15,7 +15,7 @@ interface BannerProps {
 }
 
 function getImage(deviceWidth: number, imgObj: any) {
-  return deviceWidth < 480 ? imgObj.mobile : imgObj.desktop;
+  return deviceWidth < 480 ? imgObj.desktop : imgObj.desktop;
 }
 
 const BannerCard: FC<BannerProps> = ({

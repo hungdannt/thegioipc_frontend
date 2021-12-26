@@ -672,11 +672,11 @@ export const homeSixHeroImages = [
     title: "We picked every item with care you must try",
     slug: "winter-collection",
     image: {
-      mobile: {
-        url: "/assets/images/hero/banner-mobile-4.jpg",
-        width: 690,
-        height: 480
-      },
+      // mobile: {
+      //   url: "/assets/images/hero/banner-mobile-4.jpg",
+      //   width: 690,
+      //   height: 480
+      // },
       desktop: {
         url: "/assets/images/hero/banner-4.jpg",
         width: 1800,

@@ -23,13 +23,13 @@ export default function Home() {
       <Container>
         <HeroSlider />
         <SaleBannerGrid />
-        <CategoryBlockIcon sectionHeading="text-featured-categories" />
+        <CategoryBlockIcon sectionHeading="Danh Mục Sản Phẩm" />
         <ProductsFeatured
           limit={4}
           variant="combined"
-          sectionHeading="text-featured-products"
+          sectionHeading="Sản Phẩm Nổi Bật"
         />
-        <ProductsFlashSaleCarousel />
+        {/* <ProductsFlashSaleCarousel sectionHeading="Sản Phẩm Giảm Giá" /> */}
         {/* <BannerCard
           key={`banner--key${banner.id}`}
           banner={banner}
@@ -37,10 +37,10 @@ export default function Home() {
           className="mb-12 lg:mb-14 xl:mb-16 pb-0.5 lg:pb-1 xl:pb-0"
         /> */}
         <NewArrivalsProductFeed />
-        <SaleBannerWithProducts
+        {/* <SaleBannerWithProducts
           sectionHeading="text-on-selling-products"
           categorySlug="/search"
-        />
+        /> */}
         {/* <BrandGridBlock
           sectionHeading="text-top-brands"
           limit={12}

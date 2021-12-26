@@ -29,8 +29,10 @@ import { getDirection } from "@utils/get-direction";
 function handleExitComplete() {
 	if (typeof window !== "undefined") {
 		window.scrollTo({ top: 0 });
+
 	}
 }
+
 
 const Noop: React.FC = ({ children }) => <>{children}</>;
 
@@ -40,10 +42,6 @@ const CustomApp = ({ Component, pageProps }: AppProps) => {
 		queryClientRef.current = new QueryClient();
 	}
 	const router = useRouter();
-	const dir = getDirection(router.locale);
-	useEffect(() => {
-		document.documentElement.dir = dir;
-	}, [dir]);
 	const Layout = (Component as any).Layout || Noop;
 
 	return (
