@@ -19,19 +19,19 @@ const LoginForm: React.FC = () => {
     formState: { errors }
   } = useForm<LoginInputType>();
 
-  function onSubmit({ email, password, remember_me }: LoginInputType) {
+  function onSubmit({ email, password }: LoginInputType) {
     login({
       email,
-      password,
-      remember_me
+      password
+      // remember_me
     });
-    console.log(email, password, remember_me, "data");
+    console.log(email, password, "data");
   }
   function handelSocialLogin() {
     login({
       email: "demo@demo.com",
-      password: "demo",
-      remember_me: true
+      password: "demo"
+      // remember_me: true
     });
   }
   function handleSignUp() {
