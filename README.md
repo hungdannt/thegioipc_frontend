@@ -7,10 +7,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Overview
 This project is a dynamic Ecommerce platform designed to facilitate seamless transactions between buyers and sellers for daily essentials. The platform ensures secure payments, smooth transactions, and optimized media handling for an enhanced user experience.
 
